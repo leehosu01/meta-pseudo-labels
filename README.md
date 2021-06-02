@@ -7,7 +7,7 @@ This repository for
 3. pass Dataset  as argument  (for TPU, easy use gcs bucket)
 4. pass other parameters as argument
 
-followings are [original repo](https://github.com/retoschiegg/meta-pseudo-labels)
+followings are result of [original repo](https://github.com/retoschiegg/meta-pseudo-labels)
 
 ## Results
 
