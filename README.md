@@ -1,6 +1,13 @@
 # Meta Pseudo Labels
 Unofficial TF2 implementation of "Meta Pseudo Labels" (official [Paper](https://arxiv.org/abs/2003.10580) and [Code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels)).
 
+This repository for
+1. pass strategy as argument  (for TPU & GPU & CPU compatable)
+2. pass model    as argument  (for easy kaggling)
+3. pass Dataset  as argument  (for TPU, easy use gcs bucket)
+4. pass other parameters as argument
+
+followings are [original repo](https://github.com/retoschiegg/meta-pseudo-labels)
 
 ## Results
 
